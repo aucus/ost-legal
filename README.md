@@ -1,6 +1,6 @@
 # ost-legal
 
-`ost` (온디바이스 자막 번역, iOS) 의 개인정보처리방침·지원 페이지. GitHub Pages 로 정적 서빙한다.
+`Presub` (미리자막 — 온디바이스 영상 자막 번역, iOS) 의 개인정보처리방침·지원 페이지. GitHub Pages 로 정적 서빙한다.
 
 | 파일 | 용도 | App Store Connect 필드 |
 |---|---|---|
